@@ -1,0 +1,1659 @@
+[
+  {
+    "type": "command",
+    "title": "A NEW LEAF",
+    "points": 3,
+    "description": "Submissive must water all of the thirsty plants in the play space.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "plants"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "A LA CARTE",
+    "points": 2,
+    "description": "Submissive must prepare a snack for the Dominant. If a tray is available have the submissive use it for service.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food",
+          "!tray"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "ART COLLECTOR",
+    "points": 4,
+    "description": "Submissive must stand at attention. Dominant may admire the submissive's body. DO NOT command the submissive to undress."
+  },
+  {
+    "type": "inquisition",
+    "title": "BACKGROUND CHECK",
+    "points": 5,
+    "description": "Submissive tells the Dominant their earliest kink and its origin."
+  },
+  {
+    "type": "inquisition",
+    "title": "AFTERGLOW",
+    "points": 6,
+    "description": "Submissive tells the Dominant a preferred aftercare activity."
+  },
+  {
+    "type": "meta",
+    "points": 0,
+    "title": "AS THE PROPHECY FORETOLD",
+    "description": "Cardholder may look through the Deck and choose any card they wish to play. Play this card immediately. Cardholder receives the points from the top of the card chosen."
+  },
+  {
+    "type": "punishment",
+    "title": "BEG FOR IT",
+    "points": 4,
+    "description": "Dominant chooses a sex act. Submissive must beg out loud for the Dominant to perform that sex act. Submissive may stop when Dominant is convinced that the submissive is sincere."
+  },
+  {
+    "type": "punishment",
+    "title": "BOOTYLICIOUS",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on their ass with an impact toy of their choosing.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "BOOTYLICIOUS",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on their ass with an impact toy of their choosing.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "new-rules",
+    "title": "BARNYARD",
+    "points": 3,
+    "description": "Dominant chooses an animal. Submissive must imitate that animal once during each of the Dominant's turns for the rest of gameplay. Leave this card on the table for duration of gameplay."
+  },
+  {
+    "type": "new-rules",
+    "title": "BELLHOP",
+    "points": 3,
+    "description": "Attach a bell to the submissive's clothing or collar. Submissive must perform all required actions without letting the bell ring. If the bell rings, the submissive will receive 2 strikes with an impact toy of the submissive's choosing. Leave this card on the table for duration of gameplay.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "bell"
+        ]
+      },
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "BUCKLE UP, BUTTERCUP",
+    "points": 3,
+    "description": "If the submissive has a harness, the Dominant may order them to put it on. They must wear it for as long as the Dominant desires.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "harness"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "meta",
+    "title": "CHECK-IN CHARLIE",
+    "points": 0,
+    "description": "Players review the cards in the Soft Limits pile and, if comfortable, share their reasons for playing their Yellow Consent Card. Players may decide together if they wish to reshuffle any of the Soft Limits cards into the deck or place any in the Hard Limits."
+  },
+  {
+    "type": "meta",
+    "title": "CHECK-IN CHARLIE",
+    "points": 0,
+    "description": "Players review the cards in the Soft Limits pile and, if comfortable, share their reasons for playing their Yellow Consent Card. Players may decide together if they wish to reshuffle any of the Soft Limits cards into the deck or place any in the Hard Limits."
+  },
+  {
+    "type": "meta",
+    "title": "CHECK-IN CHARLIE",
+    "points": 0,
+    "description": "Players review the cards in the Soft Limits pile and, if comfortable, share their reasons for playing their Yellow Consent Card. Players may decide together if they wish to reshuffle any of the Soft Limits cards into the deck or place any in the Hard Limits."
+  },
+  {
+    "type": "meta",
+    "title": "CHECK-IN CHARLIE",
+    "points": 0,
+    "description": "Players review the cards in the Soft Limits pile and, if comfortable, share their reasons for playing their Yellow Consent Card. Players may decide together if they wish to reshuffle any of the Soft Limits cards into the deck or place any in the Hard Limits."
+  },
+  {
+    "type": "punishment",
+    "title": "CATHOLIC SCHOOL",
+    "points": 5,
+    "description": "Dominant chooses a sentence. Submissive must write the sentence 20 times."
+  },
+  {
+    "type": "punishment",
+    "title": "CHILL FACTOR",
+    "points": 4,
+    "description": "Dominant may place a wet ice cube in the submissive's mouth. Submissive may not speak until the ice cube is fully melted.",
+    "safety-warning": "Dominant MUST run water over the ice cube prior to use to prevent it from sticking to delicate membranes.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "ice-cube"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "meta",
+    "title": "CLEAN SWEEP",
+    "points": 0,
+    "description": "If any New Rules cards are in play on the table, you may choose one and remove it from play. If you do not wish to remove a New Rules card from play, discard this card and draw another."
+  },
+  {
+    "type": "meta",
+    "title": "CLEAN SWEEP",
+    "points": 0,
+    "description": "If any New Rules cards are in play on the table, you may choose one and remove it from play. If you do not wish to remove a New Rules card from play, discard this card and draw another."
+  },
+  {
+    "type": "meta",
+    "title": "CLEAN SWEEP",
+    "points": 0,
+    "description": "If any New Rules cards are in play on the table, you may choose one and remove it from play. If you do not wish to remove a New Rules card from play, discard this card and draw another."
+  },
+  {
+    "type": "punishment",
+    "title": "COLD SHOWER",
+    "points": 3,
+    "description": "Submissive must endure 2 minutes in a cold bathroom. Submissive does not have to wet their hair.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "bathroom"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "CONCEPT ART",
+    "points": 4,
+    "description": "Cardholder describes a favorite piece of pornographic material, including photo, video, or erotic writing."
+  },
+  {
+    "type": "meta",
+    "title": "COVETED CUP",
+    "points": 1,
+    "description": "Dominant may take no action on the submissive this turn. But you do get one point. (yay.)"
+  },
+  {
+    "type": "inquisition",
+    "title": "CUMDUMPSTER",
+    "points": 2,
+    "description": "Submissive tells the Dominant their favorite orifice in which to be penetrated"
+  },
+  {
+    "type": "new-rules",
+    "title": "COUNT YOUR BLESSINGS",
+    "points": 6,
+    "description": "Submissive must count out loud each time they receive strikes from an impact toy for the rest of gameplay. Should the submissive forget to count their strikes, they will receive 2 additional strikes",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "DARK NIGHT",
+    "points": 2,
+    "description": "Search the deck for a Punishment card. Submissive must perform this task blindfolded.",
+    "safety-warning": "Do not choose a task that would be unsafe for the submissive to perform blindfolded",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "blindfold"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "DIRTY OLD PERV",
+    "points": null,
+    "description": "The submissive will be turned over the Dominant's knee and spanked (X) times."
+  },
+  {
+    "type": "inquisition",
+    "title": "CUMSLUT",
+    "points": 2,
+    "description": "Submissive tells the Dominant how many times they have orgasmed in the last week."
+  },
+  {
+    "type": "punishment",
+    "title": "DEFACE ME",
+    "points": 3,
+    "description": "Dominant writes any word or phrase they choose on the body of the submissive with a washable marker.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "washable-marker"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "meta",
+    "title": "DOUBLE DANGER",
+    "points": 0,
+    "description": "Draw two cards. The turn is not finished until all drawn cards are fulfilled."
+  },
+  {
+    "type": "command",
+    "title": "DRY RUN",
+    "points": null,
+    "description": "Dominant chooses a stuffed animal, section of carpet, or piece of furniture. Submissive must dry hump the chosen item for (10X) seconds. The more convincing, the better.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "DISH PIT",
+    "points": null,
+    "description": "Submissive must clean any dirty dishes in the kitchen, until all are complete or a period of (X) minutes is fulfilled. Submissive cannot return to gameplay until card is complete.",
+    "specialItems": [
+      {
+        "type": "home"
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "DRESS TO IMPRESS",
+    "points": 5,
+    "description": "Bring out all collars in the play space. Submissive must put on a collar of the Dominant's choice.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "collar"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "EAGER TO PLEASE",
+    "points": 4,
+    "description": "Dominant may command the submissive to perform tricks commonly known by dogs such as Sit, Lay Down, Bark, ect. Dominant may choose to reward the submissive with pats on the head"
+  },
+  {
+    "type": "inquisition",
+    "title": "FAN FICTION",
+    "points": 6,
+    "description": "Dominant creates a fantasy of what a full day of service from the submissive would look like. Should include details such as what they would wear and what tasks they would perform."
+  },
+  {
+    "type": "inquisition",
+    "title": "DRY SPELL",
+    "points": 2,
+    "description": "Cardholder shares the longest they have gone without masturbating."
+  },
+  {
+    "type": "command",
+    "title": "FAKING IT",
+    "points": 3,
+    "description": "Submissive must act out an orgasm including sounds and facial expressions."
+  },
+  {
+    "type": "command",
+    "title": "FEEDING TIME",
+    "points": 4,
+    "description": "Dominant prepares a healthy bowl of greens- no dressing. Submissive must eat it fully with their hands behind their back.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "FICKLE FETISH",
+    "points": 6,
+    "description": "Cardholder shares an unusual kink or fetish that they have."
+  },
+  {
+    "type": "inquisition",
+    "title": "FANTASY LAND",
+    "points": 5,
+    "description": "Cardholder shares a secret sexual fantasy."
+  },
+  {
+    "type": "command",
+    "title": "FEETSIES",
+    "points": 5,
+    "description": "Dominant rubs the submissive's feet for up to two minutes. Submissive must actively communicate their likes and dislikes.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "meta",
+    "title": "FLASH FLOOD",
+    "points": 0,
+    "description": "All New Rules cards currently in play are no longer in effect. The cards are returned to the stock, and the pile shuffled."
+  },
+  {
+    "type": "meta",
+    "title": "FLASH FLOOD",
+    "points": 0,
+    "description": "All New Rules cards currently in play are no longer in effect. The cards are returned to the stock, and the pile shuffled."
+  },
+  {
+    "type": "meta",
+    "title": "FLASH FLOOD",
+    "points": 0,
+    "description": "All New Rules cards currently in play are no longer in effect. The cards are returned to the stock, and the pile shuffled."
+  },
+  {
+    "type": "meta",
+    "title": "50/50",
+    "points": 0,
+    "description": "Submissive flips a coin. Heads, cardholder draws two cards. Tails, draw one. The turn is not finished until all drawn cards are fulfilled."
+  },
+  {
+    "type": "inquisition",
+    "title": "FLYING SOLO",
+    "points": 6,
+    "description": "Submissive tells the Dominant how they masturbate, including toys used and common fantasies."
+  },
+  {
+    "type": "punishment",
+    "title": "GIDDY UP",
+    "points": null,
+    "description": "The submissive must get on their hands and knees. Dominant may stand over them and spank them with a hand or riding crop (X) times.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "FLOOR SHOW",
+    "points": 2,
+    "description": "Submissive must vacuum or sweep one room. Dominant may punish the submissive with an impact toy of their choosing for any areas not cleaned to their satisfaction. Submissive cannot return to gameplay until card is complete.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "vaccum-broom"
+        ]
+      },
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "GAMECHANGER",
+    "points": 3,
+    "description": "Players tell each other the story of their first sexual encounter."
+  },
+  {
+    "type": "command",
+    "title": "GOOD SERVICE",
+    "points": 3,
+    "description": "Submissive must prepare a beverage for the Dominant. If a tray is available have the submissive use it for service.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "HAND JOB",
+    "points": null,
+    "description": "Submissive must massage the Dominant's feet or shoulders for (X) minutes."
+  },
+  {
+    "type": "punishment",
+    "title": "GIGGLE GANG",
+    "points": 3,
+    "description": "Dominant may bind the submissive into a compromising position using their restraints. Dominant may tickle the submissive for 1 minute using fingers or feathers.",
+    "safety-warning": "Make sure the submissive is not at risk of falling or striking their head while being tickled.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "restraints"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "GREEN ROOM",
+    "points": 2,
+    "description": "Submissive must let the Dominant put makeup on their face, such as lipstick, eyeshadow, or blush.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "makeup"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "new-rules",
+    "title": "#GRATEFUL",
+    "points": 4,
+    "description": "Submissive must thank the Dominant any time they receive strikes from an impact toy for the rest of gameplay. Should the submissive forget to thank the Dominant, they will receive 2 additional strikes. Leave this card on the table for duration of gameplay."
+  },
+  {
+    "type": "command",
+    "title": "HYDRATE",
+    "points": 4,
+    "description": "Dominant fills a bowl with water and serves it to the submissive. Submissive must drink all of the water with their hands behind their back.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "bowl"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "#BLESSED",
+    "points": 5,
+    "description": "Submissive has 1 minute to write as many positive attributes of the Dominant as they can. Once finished, they must read the list aloud. If the Dominant is not satisfied with the list written, the submissive will receive 4 strikes with an impact toy of their choosing.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "pen"
+        ]
+      },
+      {
+        "type": "impact"
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "HERO WORSHIP",
+    "points": 6,
+    "description": "Submissive tells the Dominant what they love about the Dominant's body."
+  },
+  {
+    "type": "command",
+    "title": "ICING ON THE CAKE",
+    "points": 3,
+    "description": "Submissive must lay out a selection of jewelry. They must then put on the pieces of the Dominant's choosing.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "jewelry"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "IT RUBS THE LOTION",
+    "points": 3,
+    "description": "Submissive chooses a bottle of lotion. Dominant may rub that lotion on any of the submissive's exposed skin.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "body-lotion"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "ICE, ICE, BABY.",
+    "points": 4,
+    "description": "Submissive chooses two body parts. Dominant may rub a wet ice cube on those body parts for 1 minute.",
+    "safety-warning": "Dominant MUST run water over the ice cube prior to use to prevent it from sticking to delicate membranes.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "ice-cube"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+
+  },
+  {
+    "type": "inquisition",
+    "title": "IMPACT PAYMENTS",
+    "points": 5,
+    "description": "Submissive tells the Dominant about their favorite impact toy."
+  },
+  {
+    "type": "punishment",
+    "title": "JUST DESSERTS",
+    "points": 4,
+    "description": "Dominant places a dash or two of salt or pepper on the submissive's tongue. If the submissive has a ball gag or other waterproof gag, secure it in place. Submissive may spit out the substance after 1 minute.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      },
+      {
+        "type": "bondage",
+        "items": [
+          "!gag"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "KISS & TELL",
+    "points": 3,
+    "description": "Cardholder tells the story of their first kiss."
+  },
+  {
+    "type": "punishment",
+    "title": "JAZZERCISE",
+    "points": null,
+    "description": "Dominant chooses a physical exercise. Submissive must do (2X) repetitions."
+  },
+  {
+    "type": "new-rules",
+    "title": "KENNEL CLUB",
+    "points": 5,
+    "description": "Submissive must wear their collar and leash for the rest of gameplay. Every few rounds, Dominant may choose to take the submissive on a “walk” around the room.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "collar"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "MAGDALENE",
+    "points": 4,
+    "description": "Submissive must gather a washbowl filled with warm water, soap, and a clean towel, and proceed to wash the Dominant's feet.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "washbowl"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "MARRY THE WALL",
+    "points": 6,
+    "description": "Dominant chooses a body part. The submissive must use the body part to hold a coin or other small object against the wall for 2 minutes. If the object falls, Dominant may draw an additional Punishment card.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "LIVING DOLL",
+    "points": 5,
+    "description": "Submissive must stand at attention. Dominant may move the submissive into any position, and the submissive must hold that position until further moved or one minute has elapsed.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "MAIN SQUEEZE",
+    "points": 3,
+    "description": "Submissive selects a fruit, then proceeds to eat that fruit as seductively as possible.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "new-rules",
+    "title": "MIND YOUR MANNERS",
+    "points": 4,
+    "description": "Submissive must keep their legs open (knees apart) for the remainder of gameplay. Leave this card on the table for duration of gameplay. If the submissive forgets and closes their legs, the Dominant receives 1 point each time."
+  },
+  {
+    "type": "command",
+    "title": "MISSED A SPOT",
+    "points": 3,
+    "description": "Submissive must clean mirrors or windows of the Dominant's choosing. Dominant may punish them with an impact toy of their choosing for any streaks or spots left.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "cleaning"
+        ]
+      },
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "MATISSE",
+    "points": 2,
+    "description": "Choose a nail polish color. Dominant may choose whose nails the submissive must paint.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "nail-polish"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "MIND'S EYE",
+    "points": 6,
+    "description": "Submissive tells the Dominant a fantasy they have had of the Dominant."
+  },
+  {
+    "type": "punishment",
+    "title": "NICE INK!",
+    "points": 3,
+    "description": "Blindfold the submissive. Dominant may “tattoo” submissive with a washable marker.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "washable-marker"
+        ]
+      },
+      {
+        "type": "bondage",
+        "items": [
+          "blindfold"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "ON DISPLAY",
+    "points": 2,
+    "description": "Submissive tells the Dominant the riskiest or most public place they have ever had sex."
+  },
+  {
+    "type": "inquisition",
+    "title": "NAT 20",
+    "points": 5,
+    "description": "Submissive tells the Dominant what they love about their own body."
+  },
+  {
+    "type": "command",
+    "title": "NIGHTINGALE EFFECT",
+    "points": 3,
+    "description": "Submissive must remain perfectly still. Dominant may take the submissive's resting pulse rate from their wrist or neck."
+  },
+  {
+    "type": "command",
+    "title": "100 STROKES",
+    "points": 5,
+    "description": "Submissive must brush the hair of the Dominant until the Dominant is satisfied.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "comb-hair-brush"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "PARTY TIME",
+    "points": 5,
+    "description": "Submissive tells the Dominant the greatest number of sex partners they have played with in a single session. (ie. threesomes, play parties, orgies, ect.)"
+  },
+  {
+    "type": "command",
+    "title": "ON MY HONOR",
+    "points": 2,
+    "description": "Dominant has 2 minutes to write an “oath of service” that the submissive must make to them. Submissive then reads the oath aloud.",
+    "safety-warning": "This oath is not binding and exists only for the purpose of play.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "ORIGIN STORY",
+    "points": 6,
+    "description": "Dominant tells the submissive their earliest kink and its origin."
+  },
+  {
+    "type": "punishment",
+    "title": "PET PARROT",
+    "points": 3,
+    "description": "Dominant orders the submissive to kneel at the Dominant's feet. Submissive must repeat anything the Dominant says for 1 minute.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "PICTURE PERFECT",
+    "points": 3,
+    "description": "Submissive must bring out all of their BDSM toys and arrange them in an aesthetically pleasing flatlay.",
+    "specialItems": [
+      {
+        "type": "impact"
+      },
+      {
+        "type": "sex-toys"
+      },
+      {
+        "type": "bondage"
+      }
+    ]
+  },
+  {
+    "type": "new-rules",
+    "title": "PAVLOV'S SLUT",
+    "points": 4,
+    "description": "Submissive chooses an impact toy. Every time the submissive's phone rings or receives a text message, the submissive must receive 2 strikes from the Dominant. Leave this card on the table for duration of gameplay.",
+    "note": "This works best if the submissive's ringer is turned on at medium volume.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "PICK YOUR POISON",
+    "points": null,
+    "description": "Submissive chooses an impact toy. Dominant chooses between the upper back, ass or chest and administers (X) strikes.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "PUCKER UP",
+    "points": 4,
+    "description": "Submissive must kiss the feet of the Dominant. Submissive may stop when the Dominant is satisfied."
+  },
+  {
+    "type": "inquisition",
+    "title": "RED ZONE",
+    "points": 6,
+    "description": "Submissive tells the Dominant one of their personal hard limits."
+  },
+  {
+    "type": "command",
+    "title": "POETIC JUSTICE",
+    "points": 2,
+    "description": "Submissive must write a poem about the Dominant in under 1 minute. They must then read the poem aloud.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "PUSSYCAT",
+    "points": 5,
+    "description": "If the submissive has a collar, they must put it on. Submissive must imitate a cat, including meowing, purring, stretching, and self grooming. Submissive may cease when the Dominant declares them a “pretty kitty”.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "!collar"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "ROOM WITH A VIEW",
+    "points": 5,
+    "description": "Dominant binds the submissive into a compromising and aesthetically pleasing position using their restraints. Submissive must remain in that position for at least 2 minutes.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "restraints"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "meta",
+    "title": "SECOND CHANCES",
+    "points": 0,
+    "description": "Discard pile is reshuffled in the stock. Current New Rules cards are left in play."
+  },
+  {
+    "type": "command",
+    "title": "ROOMSERVICE",
+    "points": 3,
+    "description": "Submissive must make the bed. Dominant may punish the submissive with an impact toy of their choosing if the bed is not made to their satisfaction. Submissive cannot return to gameplay until card is complete.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "bed"
+        ]
+      },
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "new-rules",
+    "title": "ROYAL TREATMENT",
+    "points": 4,
+    "description": "Submissive must curtsy every time the Dominant snaps their fingers for the remainder of gameplay. Leave this card on the table for duration of gameplay."
+  },
+  {
+    "type": "inquisition",
+    "title": "SEXCESSORY",
+    "points": 3,
+    "description": "Submissive tells the Dominant their favorite sex toy."
+  },
+  {
+    "type": "command",
+    "title": "SINGLE PLAYER MODE",
+    "points": 5,
+    "description": "Submissive must demonstrate their regular masturbation habits. Submissive's level of clothing should remain consistent."
+  },
+  {
+    "type": "command",
+    "title": "SECRET COW",
+    "points": 0,
+    "description": "Submissive must attempt to make a sexy cow noise. Submissive may be punished with an impact toy of their choosing if the Dominant does not find the cow noise sexy enough.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "SHOW PONY",
+    "points": 4,
+    "description": "Submissive must circle the room twice for the viewing pleasure of the Dominant. Dominant may choose if the submissive will be upright with their hands behind their head or crawling on all fours. A riding crop can be used to correct posture as needed."
+  },
+  {
+    "type": "command",
+    "title": "SNIFF TEST",
+    "points": 4,
+    "description": "Dominant commands the submissive to hold a pose of their choosing for 1 minute. During this time, Dominant may smell any areas of the submissive they wish."
+  },
+  {
+    "type": "punishment",
+    "title": "SOLE SURVIVOR",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on the soles their feet with an impact toy of their choosing.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "SOLE SURVIVOR",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on the soles their feet with an impact toy of their choosing.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "SLUTISTICS",
+    "points": 2,
+    "description": "Players tell eachother how many sexual partners they have had."
+  },
+  {
+    "type": "inquisition",
+    "title": "SPANK BANK",
+    "points": 5,
+    "description": "Dominant tells the submissive a fantasy they have had of the submissive."
+  },
+  {
+    "type": "punishment",
+    "title": "SPICE IT UP",
+    "points": 3,
+    "description": "Submissive must hold out their tongue. Dominant may place a splash of of hot sauce in the submissive's mouth.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "SONGBIRD",
+    "points": 2,
+    "description": "Submissive must sing a song for the Dominant. They may not look up lyrics that they have forgotten."
+  },
+  {
+    "type": "new-rules",
+    "title": "SPARE THE ROD",
+    "points": 4,
+    "description": "Submissive must address the Dominant by their chosen honorific for the duration of gameplay. If the submissive forgets to do so, they will receive 3 strikes with an impact toy of the submissive's choosing. Leave this card on the table for duration of gameplay.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "STAY ON TARGET",
+    "points": 6,
+    "description": "Submissive tells the Dominant their favorite place on their body to be touched."
+  },
+  {
+    "type": "command",
+    "title": "STRIPTEASE",
+    "points": 4,
+    "description": "Dominant chooses a song. Submissive must dance for the duration of the song. Submissive may choose to remove clothing if they desire. Song may not be longer than 5 minutes in duration.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "STATUESQUE",
+    "points": 2,
+    "description": "Dominant chooses a favorite body part of their submissive. Submissive must strike a pose to accentuate that body part and allow their Dominant to take a photo.",
+    "safety-warning": "Photo must not include the submissive's face or identifying features. Dominant may not command the submissive to undress."
+  },
+  {
+    "type": "command",
+    "title": "STRAP ON",
+    "points": 4,
+    "description": "If the submissive has a strap on, the Dominant may order them to put it on. They must wear it for as long as the Dominant desires.",
+    "specialItems": [
+      {
+        "type": "sex-toys",
+        "items": [
+          "strap-on"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "TAILORED FIT",
+    "points": 4,
+    "description": "Dominant may take measurements of the submissive's wrists, ankles and neck for custom restraints.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "measuring-tape"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "TAKE YOUR LASHES",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on their upper back with an impact toy of their choosing.",
+    "safety-warning": "DO NOT strike the lower back.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "TAKE YOUR LASHES",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on their upper back with an impact toy of their choosing.",
+    "safety-warning": "DO NOT strike the lower back.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "SUCKERFISH",
+    "points": null,
+    "description": "Dominant chooses a body part. The submissive must have their mouth on the Dominant's chosen body part for (X) minutes, even if the Dominant stands up and moves. Dominant's level of clothing should remain consistent.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "THAT'S THE SPOT!",
+    "points": null,
+    "description": "Dominant chooses an impact toy. Submissive chooses between the upper back, ass, or chest and receives (X) strikes.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "T-POSE",
+    "points": 4,
+    "description": "Dominant chooses two items within the room. Submissive must hold those items in their hands, with their arms straight out to their sides for 1 minute. Submissive may not return to gameplay until this card is fulfilled.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "THAT'S SKETCHY",
+    "points": 3,
+    "description": "Submissive has 1 minute to create a drawing of them and the Dominant.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "pen"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "TIME FOR THE BUSINESS",
+    "points": 5,
+    "description": "Submissive must put on business socks and a tie over their current attire and sing a song of their choosing.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "socks",
+          "tie"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "TREASURE MAP",
+    "points": 2,
+    "description": "Submissive tells the Dominant the locations of any piercings or tattoos they have on their body."
+  },
+  {
+    "type": "command",
+    "title": "UH OH, WHAT NOW?",
+    "points": 3,
+    "description": "Dominant hands the submissive their favorite impact toy for (10X) seconds. Submissive must choose what to do with it (within the bounds of safe play).",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "meta",
+    "title": "TREASURE CHEST",
+    "points": 0,
+    "description": "Dominant looks through the Discard pile and may choose any two cards to play on the submissive. Cardholder receives the points from the cards chosen. The turn is not finished until all drawn cards are fulfilled."
+  },
+  {
+    "type": "command",
+    "title": "TRIBUTE",
+    "points": 2,
+    "description": "Dominant chooses a snack. The submissive must feed them that snack as if a doting servant feeding a Roman grapes.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "punishment",
+    "title": "WALL SIT",
+    "points": null,
+    "description": "Submissive must sit with their knees bent and their back against the wall for (10X) seconds. They should look like a chair. If they fail to stay in position for the allotted time, Dominant delivers (X) strikes with an impact toy of the submissive's choosing.",
+    "specialItems": [
+      {
+        "type": "impact"
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "WHORE MOUTH",
+    "points": 6,
+    "description": "Submissive tells the Dominant their favorite 'pet names' that a Dominant could call them. Dominant may use these names throughout the rest of gameplay."
+  },
+  {
+    "type": "punishment",
+    "title": "USERNAME",
+    "points": 3,
+    "description": "Dominant writes their name on the body of the submissive with a washable marker.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "washable-marker"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "command",
+    "title": "WATER BEARER",
+    "points": 5,
+    "description": "Submissive must retrieve a glass of water for the Dominant. They must keep the glass filled for the duration of gameplay, or until the Dominant chooses to relieve them of this task.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "food"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inquisition",
+    "title": "WORK JERK",
+    "points": 2,
+    "description": "Submissive tells the Dominant about a time when they have fantasized or masturbated at their place of work."
+  },
+  {
+    "type": "inquisition",
+    "title": "ZERO TO SIXTY",
+    "points": 2,
+    "description": "Submissive tells the Dominant the fastest time they have been able to reach orgasm."
+  },
+  {
+    "type": "meta",
+    "title": "WISH FULFILLMENT",
+    "points": 0,
+    "description": "Look through the Discard pile. Choose any card and play it immediately. Cardholder receives the points from the card chosen. The turn is not finished until the drawn card is fulfilled."
+  },
+  {
+    "type": "meta",
+    "title": "YOU THIRSTY!",
+    "points": 0,
+    "description": "Submissive may look through the Discard pile and choose one card for the Dominant to play. The turn is not finished until the chosen card is fulfilled."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "BOOTY OUT",
+    "points": 4,
+    "description": "Submissive must strip and then put on an apron of the Dominant's choosing. This is will be their attire for 3 rounds of gameplay.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "apron"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "“BUT I WUV YOU!”",
+    "points": null,
+    "description": "Submissive chooses a part of the Dominant's body. The submissive must have their mouth on the chosen body part for 10(X) seconds, even if the Dominant stands up and moves.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "A TASTE FOR FINE THINGS",
+    "points": 5,
+    "description": "Dominant may pleasure the submissive with their mouth for up to 2 minutes.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "BURLESQUE",
+    "points": 5,
+    "description": "Submissive must attempt to make their nipples bounce in a circular motion."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "DRAWING BOARD",
+    "points": 4,
+    "description": "Submissive must stand at attention. Dominant may 'inspect' the submissive's body. Using a washable marker, Dominant may circle areas that they find pleasing.",
+    "specialItems": [
+      "home"
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "IT'S ELECTRIC",
+    "points": null,
+    "description": "Submissive must receive (X) shocks from an E-Stim toy of their choosing.",
+    "safety-warning": "If the submissive has any history heart conditions place this card in the Hard Limits pile and draw again.",
+    "specialItems": [
+      {
+        "type": "sex-toys",
+        "items": [
+          "e-stim"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "CHRISTMAS MORNING",
+    "points": 3,
+    "description": "Dominant may choose an item of their own clothing and command the submissive to remove it."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "GOOD VIBES",
+    "points": null,
+    "description": "If submissive has a vibrator, they must use it on themselves in full view for (X) minutes. Dominant tells the submissive whether or not they are to climax. If they fail to fulfill the Dominant's wishes, draw a Punishment and play immediately on the submissive.",
+    "specialItems": [
+      {
+        "type": "sex-toys",
+        "items": [
+          "vibrator"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "JUST A TASTE",
+    "points": 4,
+    "description": "Submissive must suck on the Dominant's fingers until the Dominant is satisfied.",
+    "safety-warning": "Dominant must have clean hands."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "LETTER TO THE EDITOR",
+    "points": 5,
+    "description": "Submissive writes a list of 5 things they would like the Dominant to do to them. Dominant may keep the list for future use."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "JAILBIRD",
+    "points": 5,
+    "description": "Dominant locks the submissive in a cage for 2 minutes. If permitted by the submissive, Dominant may place submissive in a gag and blindfold before putting them in the cage.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "cage",
+          "gag"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "LAP IT UP",
+    "points": 3,
+    "description": "Dominant chooses a song. Submissive must give the Dominant a lapdance to the song chosen. Submissive may strip if they feel so inclined.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "music"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "LITTLE PINCH",
+    "points": 4,
+    "description": "Dominant may place nipple clamps on the submissive. Submissive must keep them in place for at least 2 rounds of gameplay.",
+    "specialItems": [
+      {
+        "type": "sex-toys",
+        "items": [
+          "nipple-clamps"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "LOCKER ROOM",
+    "points": 3,
+    "description": "Dominant may drape a hand towel over one of the submissive's body parts. Submissive must not let the towel fall for the next round of gameplay.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "hand-towel"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "LOVIN' HANDFUL",
+    "points": 3,
+    "description": "Submissive chooses a body part. Dominant may fondle that body part until submissive thanks them."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "MILITARY BRAT",
+    "points": 4,
+    "description": "Dominant chooses a command phrase. Each time the command phrase is spoken, the submissive must pinch their nipples. Leave this card on the table for duration of gameplay."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "ON YOUR KNEES",
+    "points": null,
+    "description": "Scatter uncooked rice grains on the ground. Submissive must kneel on the rice for 10(X) seconds. After they are finished, they must clean it up before returning to gameplay.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "rice"
+        ]
+      },
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "MIC CHECK",
+    "points": 5,
+    "description": "Submissive uses their hands to arouse the Dominant until the Dominant gives them permission to stop."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "NOT SO SUBTLE",
+    "points": null,
+    "description": "Submissive chooses an impact toy. Dominant may give (X) strikes to the submissive's genitals.",
+    "safety-warning": "Genitals are extremely sensitive. Start with light strikes until you understand the submissive's pain tolerance.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "PHOTO SHOOT",
+    "points": 4,
+    "description": "Submissive chooses a body part. Dominant may take a photo of that body part with the submissive's phone or camera."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "SERVICE DEPARTMENT",
+    "points": 5,
+    "description": "Submissive must pleasure the Dominant with their mouth on a body part of the Dominant's choosing."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "ONE IN HAND",
+    "points": 4,
+    "description": "Dominant may pose the submissive. Submissive must stay still. Dominant may stroke the submissive's genitals for up to 2 minutes.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "PLUG IN",
+    "points": 3,
+    "description": "If the submissive owns a buttplug, they must insert it and leave it in place for the remainder of gameplay",
+    "specialItems": [
+      {
+        "type": "sex-toys",
+        "items": [
+          "buttplug"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "STATUE OF DAVID",
+    "points": 5,
+    "description": "Dominant chooses a favorite body part of the submissive. Submissive must undress and strike a pose to accentuate that body part."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "STRIP SEARCH",
+    "points": 3,
+    "description": "Submissive must remove all of their remaining clothes. Submissive must remain naked for the rest of the game unless otherwise ordered. Leave this card on the table for duration of gameplay."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "SOLO GIG",
+    "points": null,
+    "description": "If the submissive owns a penetrative sex toy, they must penetrate themselves with it and perform (2X) thrusts. For added fun, have the submissive count out loud.",
+    "specialItems": [
+      {
+        "type": "sex-toys",
+        "items": [
+          "penetrative"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "STAY AND PLAY",
+    "points": null,
+    "description": "Submissive must masturbate for (10X) seconds with the Dominant's verbal encouragement.",
+    "specialItems": [
+      {
+        "type": "time"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "TITILLATION",
+    "points": null,
+    "description": "The submissive will receive (X) strikes on their bare chest with an impact toy of their choosing.",
+    "specialItems": [
+      {
+        "type": "impact"
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "UNCHASTITY BELT",
+    "points": 4,
+    "description": "Using a piece of rope, tie a loop around the submissive's waist and then between their legs. Tie a knot so that it will rub against their genitals. Submissive must wear this belt for 3 rounds of gameplay.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "rope"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "STRIP TEASE",
+    "points": 2,
+    "description": "Dominant may choose an item of the submissive's clothing. Dominant may remove it themselves or command the submissive to do so."
+  },
+  {
+    "type": "x-rated-command",
+    "title": "TO THE NINES",
+    "points": 5,
+    "description": "Submissive must lay out a selection of undergarments and fetish wear. They must then put on the garments of the Dominant's choosing.",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "sexy-clothing"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "WAX ON, WAX OFF",
+    "points":4 ,
+    "description": "Submissive must choose a body part. Dominant may light a candle and pour a few drops of wax on the selected body part.",
+    "safety-warning": "Check that the candle is soy or paraffin- beeswax burns too hot for safe contact with",
+    "specialItems": [
+      {
+        "type": "home",
+        "items": [
+          "candle"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "WASHING THE DOG",
+    "points": 3,
+    "description": "Dominant orders the submissive to strip, then puts them in the bathtub on all fours. Dominant may scrub down submissive's body using soap and water. If a collar is present, place on the submissive.",
+    "specialItems": [
+      {
+        "type": "bondage",
+        "items": [
+          "collar"
+        ]
+      },
+      {
+        "type": "home",
+        "items": [
+          "bathroom"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "x-rated-command",
+    "title": "WINNER TAKES ALL",
+    "points": 0,
+    "description": "Each player chooses a sex act. When gameplay is over, the winning player's chosen sex act is performed."
+  }
+]

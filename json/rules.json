@@ -1,0 +1,130 @@
+{
+  "copyright": "Funishment™ is a product of Frisky Fandoms Productions LLC",
+  "creator-note": {
+    "note": "Thank you so much for purchasing the Print&Play- you're a badass. I hope you had as much fun playing this game as I had making it! Just remember- safety FIRST, not third, and be good to eachother, ok?",
+    "signature": "-Charlie (she/her)"
+  },
+  "requirements": {
+    "title": "YOU WILL NEED...",
+    "description": [
+      "1 six sided die",
+      "A method of keeping score",
+      "Probably some toys"
+    ]
+  },
+  "safety": {
+    "content-warning": {
+      "title": "This is your content warning.",
+      "description": [
+        "Funishment is a BDSM game- it is very likely that you will come across cards that make you feel uncomfortable. These cards depict real kinks and not everything is for everybody. If you are triggered by a card, stop gameplay immediately and remove the card from the deck permanently.",
+        "You may come across cards that are not safe for your body. Do not push yourself to play them! It is important that both players are honest when communicating their boundaries and are empowered to advocate for their own safety and comfort."
+      ],
+      "stoplight-safewords": {
+        "description": "Throughout gameplay, players will utilize the Stoplight Safewords.",
+        "end-game": "Safewords can be invoked at any time and must be respected. If a safeword goes unacknowledged, gameplay ends **immediately.**",
+        "red": "**RED** means “Stop immediately.”",
+        "yellow": "**YELLOW** means “Proceed with caution.”",
+        "green": "**GREEN** means “Go!”",
+        "non-verbal": "If gagged or unable to speak, three hums or taps indicates **RED**, two indicates **YELLOW**, and one indicates **GREEN**.",
+        "respect": "Safewords can be invoked at any time and must be respected."
+      }
+    }
+  },
+  "set-up": [
+    "**FIRST**, players decide together their Roles for gameplay.",
+    "**NEXT**, decide together if you wish to include any expansion packs into your gameplay deck, such as X-Rated cards.",
+    "**LASTLY**, shuffle the deck and place within reach of both players.",
+    "**NOW** each player receives a **NO.**, **MAYBE?** and **YES!** Consent Card.",
+    "**LASTLY**, shuffle the deck and place within reach of both players."
+  ],
+  "roles": {
+    "set-roles": {
+      "title": "SET ROLES",
+      "description": "One player acts as the Dominant and one as the submissive throughout gameplay.",
+      "gameplay": "If playing with SET ROLES, the Dominant and submissive will remain consistent throughout the game regardless of who's turn it is to draw."
+    },
+    "switch-roles": {
+      "title": "SWITCH ROLES",
+      "description": "Dominant and submissive switch roles each turn, with the player drawing the card acting as the Dominant. This option is great for Switches or new kinksters who are unsure of their desired BDSM role.",
+      "gameplay": "If playing with **SWITCH ROLES**, the player drawing a card is the Dominant for that turn."
+    }
+  },
+  "gameplay": [
+    "One player draws a card from the deck and reads it aloud. If **X** value is present, roll a six-sided die to determine the value of **X**.",
+    "Both players secretly select a Consent Card.",
+    "On the count of three, both players reveal the Consent Card they have chosen.",
+    "Perform the card! The player who drew the card receives the points from the top right corner of the card. If the card instructs the player to play additional cards, they receive all of the points from the subsequent cards.",
+    "Repeat steps, alternating who draws the card each turn."
+  ],
+  "card-anatomy": {
+    "card-name-and-card-type": "**CARD NAME** and **CARD TYPE** are found on the top left corner. There are five card types- Commands, Punishments, Inquisitions, New Rules and Meta Cards (see next page).",
+    "point-value": "**POINT VALUE** is indicated in the top right corner. For cards worth **“X”** points, roll one six-sided die to determine the value of **X**. The card will also specify any action that the **X** value applies to.",
+    "special-items": "**ICONS** in the bottom corners indicate that a special item is needed to play the card. If you don't have the item required, simply place in the **HARD LIMITS** pile and draw again."
+  },
+  "special-items": {
+    "home": "An item commonly found in most homes.",
+    "impact": "An impact toy such as a flogger, paddle, or hand.",
+    "sex-toys": "A sex toy such as a vibrator, buttplug or nipple clamps.",
+    "bondage": "Restrictive wear such as cuffs, blindfolds, or gags.",
+    "time": "A method of timekeeping."
+  },
+  "gears": {
+    "description": "**Don't have any S+M gear?** Don't sweat it! There's still plenty of fun to be had without. If you do intend to use household items to play, please remember the following:",
+    "warnings": [
+      "**Never** use items with an edge, such as metal spatulas.",
+      "**Don't use rope!** Without proper training, rope is NOT a safe substitute for proper restrictive wear.",
+      "If you are unsure about an item's safety, **do not use it.**"
+    ],
+    "buy-local": "And if you decide you want to invest in some BDSM gear, be sure to stop by your local sex-positive adult shop!"
+  },
+  "card-types": {
+    "command": {
+      "title": "COMMAND CARD",
+      "description": "generally have tasks that the submissive must perform for the pleasure of the Dominant."
+    },
+    "punishment": {
+      "title": "PUNISHMENT CARDS",
+      "description": "have punishments- physical or otherwise- that the Dominant may perform on the submissive."
+    },
+    "inquisition": {
+      "title": "INQUISITION CARDS",
+      "description": "have intimate and interesting questions that facilitate communication between players"
+    },
+    "meta": {
+      "title": "META CARDS",
+      "description": "alter gameplay in some way. Meta Cards do not award points, however any card(s) drawn and played at the instruction of the Meta Card does award points to the player who drew it"
+    },
+    "new-rules": {
+      "title": "NEW RULES CARDS",
+      "description": "have tasks that the submissive must carry out throughout gameplay. The card should be left on the table to remind the submissive. Points awarded from a New Rules card are only awarded once.",
+      "note": "For those playing with Switch Roles, the New Rule applies only to the player who was a Submissive on the turn in which the card was drawn. Leave the New Rule card on the table in front of the player it applies to."
+    }
+  },
+  "winning": {
+    "description": "Everyone's a winner in Funishment! But if you're a traditionalist and want a clear victory, then the first player to 30 points wins. Be aware that points are included largely for limiting gameplay time- Funishment is a game of chance and aggressively competitive gameplay will compromise player communication and exploration. You get the points you get!",
+    "tip": "These cards can also be used as a springboard to create S+M sessions, jumpstart a sexy evening, or just generate conversation. Play, experiment, and modify cards however you feel is right. Because, after all, BDSM is all about what feels right for you."
+  },
+  "card-piles": {
+    "deck": "Deck",
+    "discard": "Discard",
+    "hard-limits": "Hard Limits",
+    "soft-limits": "Soft Limits"
+  },
+  "consent-card": {
+    "yes": {
+      "title": "YES!",
+      "description": "Let's do the card.",
+      "gameplay": "If both players show **YES!**, the card will be played! Move on to Step 4."
+    },
+    "maybe": {
+      "title": "MAYBE?",
+      "description": "I'm not sure about this card, but maybe later.",
+      "gameplay": "If either player shows **MAYBE?**, the card is placed in the **SOFT LIMITS** pile on the playmat. Draw again and start over from Step 1."
+    },
+    "no": {
+      "title": "NO.",
+      "description": "I don't want to/I cannot physically do this card.",
+      "gameplay": "If either player shows **NO.**, the card is placed in the **HARD LIMITS** pile and cannot be retrieved for the rest of gameplay. Return to Step 1."
+    }
+  }
+}
