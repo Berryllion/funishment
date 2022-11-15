@@ -90,6 +90,7 @@ const QuickReadCard = ({
               alt={item.type}
               width="20"
               height="20"
+              key={item.type}
             />
           ))}
         </SpecialItemsContainer>
@@ -129,10 +130,6 @@ export default function Discard() {
   const [cardsToPlay, setCardsToPlay] = useState<Array<number>>([])
 
   const nbCardToPlay = currentCard.title === "TREASURE CHEST" ? 2 : 1
-
-  console.log("cardsToPlay",cardsToPlay)
-  console.log("cardsToPlay.length",cardsToPlay.length)
-  console.log("discardPile.length",discardPile.length)
 
   const onClick = (index: number) => {
     if (currentCard.title === "TREASURE CHEST") {

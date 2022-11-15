@@ -81,6 +81,7 @@ const QuickReadCard = ({
               alt={item.type}
               width="20"
               height="20"
+              key={item.type}
             />
           ))}
         </SpecialItemsContainer>

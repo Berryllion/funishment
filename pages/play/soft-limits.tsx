@@ -89,6 +89,7 @@ const QuickReadCard = ({
               alt={item.type}
               width="20"
               height="20"
+              key={item.type}
             />
           ))}
         </SpecialItemsContainer>
@@ -149,6 +150,7 @@ export default function SoftLimits() {
           description={card.description}
           specialItems={card.specialItems}
           index={index}
+          key={index}
         />
       )) : <CardsContainer>No Soft Limits cards!</CardsContainer>}
     </Main>

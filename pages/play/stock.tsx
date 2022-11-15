@@ -95,6 +95,7 @@ const QuickReadCard = ({
               alt={item.type}
               width="20"
               height="20"
+              key={item.type}
             />
           ))}
         </SpecialItemsContainer>
@@ -144,6 +145,7 @@ export default function Discard() {
           description={card.description}
           specialItems={card.specialItems}
           index={index}
+          key={index}
         />
       )) : <CardsContainer>No discarded cards!</CardsContainer>}
     </Main>

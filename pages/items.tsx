@@ -17,7 +17,7 @@ let sexToysItems: Array<string> = []
 cards.map(card => {
   // if (!xRatedExtensions && card.type === "x-rated-command") return
 
-  const cardSpecialItems = card["special-items"] ?? null
+  const cardSpecialItems = card["specialItems"] ?? null
 
   if (cardSpecialItems) {
     cardSpecialItems.map((items: any) => {
@@ -31,9 +31,6 @@ cards.map(card => {
 
 const noDuplicatesHomeItems = new Set([...homeItems])
 const noDuplicatesSexToysItems = new Set([...sexToysItems])
-
-console.log(noDuplicatesHomeItems)
-console.log(noDuplicatesSexToysItems)
 
 export default function ContentWarning() {
   const [xRated, setXRated] = useState(false)
@@ -49,7 +46,7 @@ export default function ContentWarning() {
       <h3>Home</h3>
       <ul>
         {Array.from(noDuplicatesHomeItems).map(e => (
-          <li>{e}</li>
+          <li key={e}>{e}</li>
         ))}
       </ul>
 

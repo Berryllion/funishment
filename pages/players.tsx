@@ -146,12 +146,13 @@ export default function Players() {
           />
 
           <RoleButtonsContainer>
-            {Object.keys(roles).map((role) => (
+            {Object.keys(roles).map((role, i) => (
               <RoleButton
                 type="button"
                 onClick={() => setRolesFirstPlayer(role)}
                 selected={role === firstPlayerRole}
                 role={role}
+                key={i}
               >
                 {roles[role]}
               </RoleButton>
@@ -168,12 +169,13 @@ export default function Players() {
           />
 
           <RoleButtonsContainer>
-            {Object.keys(roles).map((role) => (
+            {Object.keys(roles).map((role, i) => (
               <RoleButton
                 type="button"
                 onClick={() => setRolesSecondPlayer(role)}
                 selected={role === secondPlayerRole}
                 role={role}
+                key={i}
               >
                 {roles[role]}
               </RoleButton>

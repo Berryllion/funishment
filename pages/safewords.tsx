@@ -31,7 +31,7 @@ export default function ContentWarning() {
       <p>{rules.safety["content-warning"]["stoplight-safewords"].description}</p>
 
       {stoplightColors.map(color => (
-        <p>{emphasizeWords(stoplightRules[color], `var(--stoplight-${color})`)}</p>
+        <p key={color}>{emphasizeWords(stoplightRules[color], `var(--stoplight-${color})`)}</p>
       ))}
 
       <p>
