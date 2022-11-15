@@ -3,6 +3,7 @@
   --primary: #cd6f6f;
   --primary-shade: #b86363;
   --secondary: #aa2b3d;
+  --secondary-shade: #992636;
   --white: #ffd8d8;
   --tertiary: #e4784d;
   --tertiary-shade: #cd6c45;
@@ -14,7 +15,7 @@
   --stoplight-green: #73c016;
   --stoplight-green-shade: #67ac13;
 
-  --screen-padding: 3%;
+  --screen-padding: 5%;
 }
 
 html,

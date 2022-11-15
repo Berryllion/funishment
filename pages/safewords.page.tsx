@@ -43,6 +43,7 @@ export default function ContentWarning() {
       <ButtonsContainer>
           <Button
             backgroundColor="var(--secondary)"
+            hoverBackgroundColor="var(--secondary-shade)"
             onClick={goToPlayersSetup}
           >
             Continue

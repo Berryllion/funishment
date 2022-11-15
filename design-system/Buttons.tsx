@@ -83,6 +83,10 @@ export const RoleButton = styled.button<RoleButtonProps>`
   opacity: ${(props) => props.selected ? "1" : ".3"};
   ${(props) => props.role === "switch" && "background-color: var(--tertiary);"}
 
+  :hover {
+    background-color: var(--primary-shade);
+  }
+
   @media (min-width: 799px) {
     padding: 1.25rem .5rem;
   }

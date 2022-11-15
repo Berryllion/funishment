@@ -36,6 +36,7 @@ export default function Home() {
         <ButtonsContainer>
           <Button
             backgroundColor="var(--secondary)"
+            hoverBackgroundColor="var(--secondary-shade)"
             onClick={goToContentWarning}
           >
             Start

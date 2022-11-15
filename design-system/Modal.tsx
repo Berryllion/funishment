@@ -23,8 +23,9 @@ export const Overlay = styled.div`
 
 const CloseButtonContainer = styled.div`
   position: fixed;
-  right: 3%;
-  top: 0;
+  right: var(--screen-padding);
+  top: var(--screen-padding);
+  cursor: pointer;
 `;
 
 const Content = styled.div`
@@ -71,6 +72,10 @@ const AccessPilesContainer = styled.div`
   flex-direction: column;
   align-items: center;
   row-gap: .5rem;
+
+  && > button {
+    width: 20rem;
+  }
 `
 
 export const AccessPiles = ({ onClose }: AccessPilesProps) => {

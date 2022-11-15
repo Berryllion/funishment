@@ -189,6 +189,7 @@ export default function Players() {
       <ButtonsContainer>
         <Button
           backgroundColor="var(--secondary)"
+          hoverBackgroundColor="var(--secondary-shade)"
           type="submit"
           onClick={onSubmit}
         >

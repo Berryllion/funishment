@@ -60,8 +60,8 @@ interface PileMenuButtonProps {
 
 const PileMenuButtonContainer = styled.div<PileMenuButtonProps>`
   position: fixed;
-  bottom: 3%;
-  right: 3%;
+  bottom: var(--screen-padding);
+  right: var(--screen-padding);
   cursor: pointer;
   z-index: 3;
 `
