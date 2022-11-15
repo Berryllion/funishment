@@ -47,6 +47,7 @@ interface NoMarginButtonsContainerProps {
 const NoMarginButtonsContainer = styled(ButtonsContainer)<NoMarginButtonsContainerProps>`
   margin: 0;
   row-gap: 1rem;
+  z-index: 2;
 
   && {
     flex-direction: ${(props) => props.column ? "column" : "row"};
@@ -62,6 +63,7 @@ const PileMenuButtonContainer = styled.div<PileMenuButtonProps>`
   bottom: 3%;
   right: 3%;
   cursor: pointer;
+  z-index: 3;
 `
 
 const PileMenuButton = ({ onClick }: PileMenuButtonProps) => {

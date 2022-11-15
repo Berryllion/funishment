@@ -77,7 +77,7 @@ const CardDescription = styled.p`
   width: 80%;
   text-align: center;
   font-size: 1.35em;
-  z-index: -1;
+  z-index: 0;
 
   @media (max-width: 500px) {
     width: 90%;

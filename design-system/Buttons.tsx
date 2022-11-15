@@ -26,6 +26,7 @@ export const Button = styled.button<ButtonProps>`
       ? props.backgroundColor
       : "var(--primary)"
   };
+  color: var(--white);
 
   :hover {
     background-color: ${(props) =>
