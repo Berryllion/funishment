@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { MutableRefObject, useEffect, useState } from "react";
 import { debounce } from "lodash";
 
 export const useMousePosition = () => {
@@ -37,9 +37,9 @@ export const useMousePosition = () => {
   return mousePos;
 }
 
-export const useClickOutside = (ref, onClickOutside: Function) => {
+export const useClickOutside = (ref: MutableRefObject<any>, onClickOutside: Function) => {
   useEffect(() => {
-    function handleClickOutside(event) {
+    function handleClickOutside(event:MouseEvent) {
       if (ref.current && !ref.current.contains(event.target)) {
         onClickOutside(false);
       }
