@@ -124,10 +124,9 @@ export default function Discard() {
   const router = useRouter()
   const dispatch = useDispatch()
   const { currentCard, discardPile } = useSelector(( state: RootState ) => state.cardPiles)
+  const [cardsToPlay, setCardsToPlay] = useState<Array<number>>([])
 
   if (!currentCard) return null
-
-  const [cardsToPlay, setCardsToPlay] = useState<Array<number>>([])
 
   const nbCardToPlay = currentCard.title === "TREASURE CHEST" ? 2 : 1
 
