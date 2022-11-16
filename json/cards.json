@@ -1335,7 +1335,12 @@
     "points": 4,
     "description": "Submissive must stand at attention. Dominant may 'inspect' the submissive's body. Using a washable marker, Dominant may circle areas that they find pleasing.",
     "specialItems": [
-      "home"
+      {
+        "type": "home",
+        "items": [
+          "washable-marker"
+        ]
+      }
     ]
   },
   {
