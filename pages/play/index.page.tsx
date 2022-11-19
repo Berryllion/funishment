@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import styled from "@emotion/styled"
 import { useRouter } from "next/router"
 import _ from "lodash"
@@ -176,7 +176,8 @@ export default function Play() {
       )
     }
 
-    if (currentCard.title === "AS THE PROPHECY FORETOLD") {
+    // TODO: filter punishment only for DARK NIGHT + MARRY THE WALL
+    if (currentCard.title === "AS THE PROPHECY FORETOLD" || currentCard.title === "DARK NIGHT" || currentCard.title === "MARRY THE WALL") {
       return (
         <NoMarginButtonsContainer>
           {stockPile.length !== 0 ? (
